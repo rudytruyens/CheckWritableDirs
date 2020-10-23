@@ -1,0 +1,12 @@
+\\ad.ing.net\wps\be\d\ud\002001\UU50IUd\home\My Documents\sourcecode\CheckWritableDirs\CheckWritableDirs\bin\Debug\CheckWritableDirs.exe.config
+\\ad.ing.net\wps\be\d\ud\002001\UU50IUd\home\My Documents\sourcecode\CheckWritableDirs\CheckWritableDirs\bin\Debug\CheckWritableDirs.exe
+\\ad.ing.net\wps\be\d\ud\002001\UU50IUd\home\My Documents\sourcecode\CheckWritableDirs\CheckWritableDirs\bin\Debug\CheckWritableDirs.pdb
+\\ad.ing.net\wps\be\d\ud\002001\UU50IUd\home\My Documents\sourcecode\CheckWritableDirs\CheckWritableDirs\bin\Debug\CheckWritableDirs.xml
+\\ad.ing.net\wps\be\d\ud\002001\UU50IUd\home\My Documents\sourcecode\CheckWritableDirs\CheckWritableDirs\obj\Debug\CheckWritableDirs.vbprojAssemblyReference.cache
+\\ad.ing.net\wps\be\d\ud\002001\UU50IUd\home\My Documents\sourcecode\CheckWritableDirs\CheckWritableDirs\obj\Debug\CheckWritableDirs.Resources.resources
+\\ad.ing.net\wps\be\d\ud\002001\UU50IUd\home\My Documents\sourcecode\CheckWritableDirs\CheckWritableDirs\obj\Debug\CheckWritableDirs.vbproj.GenerateResource.cache
+\\ad.ing.net\wps\be\d\ud\002001\UU50IUd\home\My Documents\sourcecode\CheckWritableDirs\CheckWritableDirs\obj\Debug\CheckWritableDirs.vbproj.CoreCompileInputs.cache
+\\ad.ing.net\wps\be\d\ud\002001\UU50IUd\home\My Documents\sourcecode\CheckWritableDirs\CheckWritableDirs\obj\Debug\CheckWritableDirs.exe
+\\ad.ing.net\wps\be\d\ud\002001\UU50IUd\home\My Documents\sourcecode\CheckWritableDirs\CheckWritableDirs\obj\Debug\CheckWritableDirs.xml
+\\ad.ing.net\wps\be\d\ud\002001\UU50IUd\home\My Documents\sourcecode\CheckWritableDirs\CheckWritableDirs\obj\Debug\CheckWritableDirs.pdb
+\\ad.ing.net\wps\be\d\ud\002001\UU50IUd\home\My Documents\sourcecode\CheckWritableDirs\CheckWritableDirs\obj\Debug\CheckWritableDirs.WritableDirs.resources
